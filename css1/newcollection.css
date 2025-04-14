@@ -1,0 +1,166 @@
+*{
+@import url('https://fonts.googleapis.com/css2?family=Aguafina+Script&family=Anton&family=Big+Shoulders+Inline:opsz,wght@10..72,100..900&family=Boldonse&family=Dancing+Script:wght@400..700&family=Delicious+Handrawn&family=Grechen+Fuemen&family=Lobster&family=Nosifer&family=Oleo+Script:wght@400;700&family=Pacifico&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto+Slab:wght@100..900&family=Rouge+Script&family=Rubik+80s+Fade&family=Rubik+Moonrocks&family=Rubik:ital,wght@0,300..900;1,300..900&family=Shafarik&family=Special+Gothic+Condensed+One&family=Special+Gothic+Expanded+One&family=Sriracha&display=swap');
+}
+
+
+
+.a1{
+    background-color:#1D2228 ;
+    width: 745px;
+    height: 800px;
+    
+}
+.b1{
+    background-color: #259B9A;
+    height: 800px;
+    width: 745px;
+    position: relative;
+    left: 745px;
+}
+.c1{
+    color: white;
+    font-family: "Roboto Slab", serif;
+    text-align: center;
+    position: relative;
+    top: 250px;
+}
+.c2{
+    color: white;
+    font-family: "Roboto Slab", serif;
+    font-size: 60px;
+    text-align: end;
+    position: relative;
+    top: 250px;
+
+}
+.c3{
+    width: 100px;
+    color: white;
+    position: relative;
+    left: 600px;
+    top: 300px;
+}
+.ph1{
+    height: 534px;
+    width: 550px;
+    position: relative;
+    bottom: 750px;
+    left: 155px;
+
+}
+
+.b2{
+    position: relative;
+    bottom: 8px;
+    background-image: url(./images/n3.jpg);
+    width: 745px;
+    height: 400px;
+}
+.cc1{
+    color: white;
+    font-size: 40px;
+    font-family: "Special Gothic Expanded One", sans-serif;
+    text-align: center;
+    position: relative;
+    top: 80px;
+}
+.cc2{
+    color: white;
+    font-family: "Special Gothic Expanded One", sans-serif;
+    text-align: center;
+    position: relative;
+    top: 90px;
+}
+.d{
+    background-color: #000000;
+    width: 745px;
+    height: 392px;
+    position: relative;
+    left: 745px;
+    bottom: 400px;
+}
+.cc3{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 150px;
+    width: 500px;
+    left: 90px;
+}
+.b3{
+    background-color: #1D2228;
+    height: 1000px;
+    width: 1490px;
+    position: relative;
+    bottom: 400px;
+}
+.ph2{
+    height: 450px;
+   width: 70%;
+position: relative;
+left:230px;
+top: 50px;
+}
+.ccc1{
+   color: white;
+    position: relative;
+    bottom:900px;
+    left: 00px;
+    
+}
+.dd1{
+    display: flex;
+    justify-content: space-around;      
+}
+.sa1{
+    position: relative;
+    bottom:900px;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+ul li{
+    list-style-type:none;
+}
+.em1{
+    width:1490px ;
+    height: 600px;
+    position: relative;
+    bottom: 530px;
+}
+.wrt1{
+    color: white;
+   
+  font-family: "Lobster", sans-serif;
+}
+.wrt2{
+    width: 400px;
+}
+.a5{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.con1{
+    background-color: #1D2228;
+    height: 700px;
+    width: 1490px;
+    position: relative;
+    bottom: 550px;
+}
+.wrt3{
+    width: 400px;
+    height: 600px;
+    position: relative;
+    bottom: 400px;
+    left: 500px;
+}
+.wrt4{
+    width: 400px;
+    position: relative;
+    bottom: 850px;
+    left: 1000px;
+    color: white;
+
+}
